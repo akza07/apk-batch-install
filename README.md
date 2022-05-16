@@ -13,3 +13,5 @@ all your apps in a single directory and then place the .py file inside it. and e
 Split-APKs are not supported... I think. 
 
 I made it only to make the Installation of extensions for Tachiyomi and Changing Custom ROMs easier.
+
+As for the License, I'm just learning about different licenses and MIT seems really FOSSy.
