@@ -9,7 +9,7 @@ Python script to batch install APK files using ADB USB debugging on Linux.
 * Run it.
 
 PS : It doesn't take any argument. It just installs every APK in it's path. So make sure to put
-all your apps in a single directory and ensure no shady apps are in the directory.
+all your apps in a single directory and then place the .py file inside it. and ensure no shady apps are in the directory.
 Split-APKs are not supported... I think. 
 
 I made it only to make the Installation of extensions for Tachiyomi and Changing Custom ROMs easier.
